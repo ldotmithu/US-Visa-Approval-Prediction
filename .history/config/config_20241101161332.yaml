@@ -1,7 +1,7 @@
 arifacts_root: arifacts
 
 data_ingestion: 
-  root_dir: arifacts/data_ingestion
+  root_dir: data_ingestion
   URL: https://github.com/ldotmithu/Dataset/raw/refs/heads/main/Visadataset.zip
   local_data_path: arifacts/data_ingestion/data.zip
   unzip_dir: arifacts/data_ingestion

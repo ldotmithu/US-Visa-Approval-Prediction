@@ -1,0 +1,2 @@
+from mlProject import logging
+from mlProject.pipeline.stage_01_data_ingestion import DataIngestionPipeline

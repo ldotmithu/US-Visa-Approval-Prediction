@@ -1,0 +1,6 @@
+arifacts_root: arifacts
+
+data_ingestion: 
+  root_dir: data_ingestion
+  URL: 
+  
